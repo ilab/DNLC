@@ -1,0 +1,15 @@
+language: r
+cache: packages
+
+r:
+  - oldrel
+  - release
+  - devel
+
+addons:
+  apt:
+    packages:
+      - libxml2-dev
+
+
+
