@@ -2,7 +2,6 @@ language: r
 cache: packages
 
 r:
-  - oldrel
   - release
   - devel
 
@@ -12,4 +11,7 @@ addons:
       - libxml2-dev
 
 
+bioc_packages:
+   - GOstats
 
+     
