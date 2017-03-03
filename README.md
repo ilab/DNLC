@@ -1,6 +1,4 @@
 #DNLC  [![Build Status](https://travis-ci.org/yaolu/DNLC.svg?branch=master)](https://travis-ci.org/yaolu/DNLC)
-
-##Overview
 Using Local Moran's I for detection of differential network local consistency.
 
 ##Dependency
