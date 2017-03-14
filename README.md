@@ -1,9 +1,10 @@
-#DNLC  [![Build Status](https://travis-ci.org/yaolu/DNLC.svg?branch=master)](https://travis-ci.org/yaolu/DNLC)
+# DNLC
+[![Build Status](https://travis-ci.org/yaolu/DNLC.svg?branch=master)](https://travis-ci.org/yaolu/DNLC)
 Using Local Moran's I for detection of differential network local consistency.
 
-##Dependency
+## Dependency
 igraph, spdep, fdrtool, GOstats, locfdr, mvtnorm, caTools
 
-##Installation
+## Installation
 ```r
 install.packages('DNLC')
